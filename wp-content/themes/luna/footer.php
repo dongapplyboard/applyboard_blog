@@ -103,12 +103,12 @@
 
 							<div class="row">
 							  <div class="col-lg-12 text-center">
-							    <a href="mailto:info@applyboard.com" class="btn btn-primary">Send us email</a>
+							    <a href="mailto:info@applyboard.com" class="btn btn-primary">Send us an email</a>
 							    <p class="m-t-sm">
-							      Or follow us on social platform
+							      Or follow us on our social platforms
 							    </p>
-							    <ul class="list-inline">
-							      <li class="social-icon"><a target="_blank" href="https://twitter.com/applyboard"><i class="fa fa-twitter"></i></a>
+							    <ul class="list-inline social-icon">
+							      <li class=""><a target="_blank" href="https://twitter.com/applyboard"><i class="fa fa-twitter"></i></a>
 							      </li>
 							      <li><a target="_blank" href="https://www.facebook.com/applyboard"><i class="fa fa-facebook"></i></a>
 							      </li>
