@@ -896,9 +896,6 @@ ul.social-media-icons {
 
 @media (min-width: 768px) {
     /* Navbar positioning foo */
-    .navbar-wrapper {
-      margin-top: 20px;
-    }
     .navbar-wrapper .container {
       padding-right: 15px;
       padding-left: 15px;
@@ -983,18 +980,12 @@ ul.social-media-icons {
 }
 .navbar-nav > li > a {
 	padding-top: 25px;
-	// border-top: 6px solid transparent;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover {
 	color: #fff;
-	// border-top: 6px solid transparent;
 }
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-	color: $navy;
-	background: inherit;
-}
+
 .navbar-default .navbar-nav > .active > a:focus {
 	background: transparent;
 	color: #fff;
@@ -1104,10 +1095,6 @@ ul.social-media-icons {
 	}
 }
 
-.navbar-nav>li
-{
-	float: none;
-}
 .navbar-nav>li>a
 {
 	padding-bottom: 10px;
@@ -1126,10 +1113,7 @@ ul.social-media-icons {
 {
 	overflow: hidden!important;
 }
-.navbar-nav
-{
-	margin: 0 -15px;
-}
+
 .navbar-nav .open .dropdown-menu .dropdown-header,.navbar-nav .open .dropdown-menu>li>a
 {
 	padding: 10px 15px 10px 25px;
@@ -1144,13 +1128,14 @@ ul.social-media-icons {
 			height: 50px;
 		}
 
-	#navbar ul li {
-		height: 50px;
-		line-height: 50px;
-		/*color: white;*/
-	}
+		#navbar ul li {
+			height: 50px;
+			line-height: 50px;
+			/*color: white;*/
+		}
 
 	#navbar ul li a {
+		transition: 0.3s;
 		opacity: 0.8;
 		height: 40px;
 		line-height: 40px;
@@ -1174,9 +1159,23 @@ ul.social-media-icons {
 		  line-height: 37px;
 		  padding: 10px;
 		  border: 2px solid #267FC3;
-		  padding: 0 25px;
+		  padding: 10px 25px;
 		  text-align: center;
 		}
+
+		.navbar-nav>li {
+			float: left;
+		}
+}
+
+.nav>li {
+	position: relative;
+	display: block;
+	color: #676a6c !important;
+}
+
+.nav li a:hover  {
+	color: #1ab394;
 }
 
 .navbar-logo {
