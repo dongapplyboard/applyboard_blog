@@ -42,43 +42,40 @@
 
 							<?php else : ?>
 
-									<div class="row text-center-sm" style="margin-top:20px; margin-bottom:20px;">
+<div class="row text-center-sm" style="margin-top:20px; margin-bottom:20px;">
   <div class="col-md-6">
     <div class="row">
-
       <div class="col-sm-4">
         <span class="footer-title">Welcome</span>
         <br>
-				<a href="http:/www.applyboard.com/quick_search">Find Programs</a>
+				<a href="https://www.applyboard.com/quick_search">Find Programs</a>
           <br>
-          <%= link_to "Login", login_path %>
+					<a href="https://www.applyboard.com/login">Login</a>
           <br>
-          <%= link_to "Register", register_path %>
-        <% end %>
-        <br>
-        <%= link_to "Reset Password", forgot_password_path %>
-        <br/>
+					<a href="https://www.applyboard.com/register">Register</a>
+        	<br>
+					<a href="https://www.applyboard.com/forgot_password">Reset Password</a>
+	        <br/>
         <br/>
       </div>
 
       <div class="col-sm-4">
         <span class="footer-title">About</span>
         <br>
-        <%= link_to "Company", about_us_path %>
+				<a href="https://www.applyboard.com/about_us">Company</a>
         <br/>
-        <%= link_to "How it works", features_path %>
+        <a href="https://www.applyboard.com/features">How it works</a>
         <br/>
-        <!--<a href="">Why ApplyBoard</a>-->
       </div>
 
       <div class="col-sm-4">
         <span class="footer-title">Partners</span>
         <br>
-        <%= link_to "Schools", :schools %>
+				<a href="https://www.applyboard.com/schools">Schools</a>
         <br>
-        <%= link_to "Partner with Us", partner_with_us_path %>
+				<a href="https://www.applyboard.com/partner_with_us">Partner with Us</a>
         <br>
-        <%= link_to "Certificates", certificates_gallery_path %>
+				<a href="https://www.applyboard.com/certificates">Certificates</a>
         <br/>
         <br/>
       </div>
@@ -91,7 +88,7 @@
         <br>
         <a href="https://applyboard.zendesk.com/hc/en-us">Help Center</a>
         <br>
-        <%= link_to "Student Testimonials", testimonials_path %>
+        <a href="https://applyboard.com/testimonials">How it works</a>
         <br>
         <a href="http://applyboard.com/blog">Blog</a>
         <br/>
@@ -156,7 +153,7 @@
   <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
         <span>
             <strong>&copy;
-              2017 ApplyBoard.com</strong> | <a href="<%= terms_of_service_url %>">Terms of Service</a> | <a href="<%= privacy_policy_url %>">Privacy Policy</a><br/>
+              2017 ApplyBoard.com</strong> | <a href="https://applyboard.com/terms_of_service">Terms of Service</a> | <a href="https://applyboard.com/privacy_policy">Privacy Policy</a><br/>
             An online tool for students from anywhere in the world to find the best university or college in Canada or the USA and apply to it.
         </span>
   </div>
