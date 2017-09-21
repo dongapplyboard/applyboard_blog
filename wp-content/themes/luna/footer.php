@@ -124,7 +124,7 @@
 							  </div>
 							</div>
 							<div class="row">
-							  <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+							  <div class="col-lg-12 text-center m-t-lg m-b-lg">
 							        <span>
 							            <strong>&copy;
 							              2017 ApplyBoard.com</strong> | <a href="https://applyboard.com/terms_of_service">Terms of Service</a> | <a href="https://applyboard.com/privacy_policy">Privacy Policy</a><br/>
