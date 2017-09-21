@@ -34,7 +34,7 @@
 						<img class="navbar-logo" src="https://d2mqj6445k6q7s.cloudfront.net/assets/applyboard-fc701424c1e1bccabd1d9f9cdcc5565d.png" alt="Applyboard"/>
 					</a>
 				</div>
-			<div id="navbar" class="navbar-collapse">
+			<div id="navbar" class="navbar-collapse collapse">
 				<!-- collapse -->
 				<ul class="nav navbar-nav navbar-right">
 					<li><a class="page-scroll" href="https://www.applyboard.com/schools">Schools</a></li>
