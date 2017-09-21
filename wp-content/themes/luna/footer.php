@@ -18,7 +18,7 @@
 							      <div class="col-sm-4">
 							        <span class="footer-title">Welcome</span>
 							        <br>
-											<a href="https://www.applyboard.com/quick_search">Find Programs</a>
+												<a href="https://www.applyboard.com/quick_search">Find Programs</a>
 							          <br>
 												<a href="https://www.applyboard.com/login">Login</a>
 							          <br>
