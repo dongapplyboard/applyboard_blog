@@ -1,0 +1,2021 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luna v1.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-20 06:49:55+0000\n"
+"Last-Translator: robbie <robbie@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments.php:28
+#, php-format
+#@ luna
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35
+#: comments.php:56
+#@ luna
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: comments.php:72
+#@ luna
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: content-none.php:13
+#@ luna
+msgid "Nothing Found"
+msgstr "Rien trouvé"
+
+#: content-none.php:19
+#, php-format
+#@ luna
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+#@ luna
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspondait à vos termes de recherche. S'il vous plaît essayer de nouveau avec des mots clés différents."
+
+#: content-none.php:28
+#@ luna
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que nous ne pouvons pas trouver ce que vous recherchez. Peut-être la recherche peut aider."
+
+#: content-page.php:14
+#: content-single.php:18
+#@ luna
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-page.php:21
+#: inc/template-tags.php:126
+#@ luna
+msgid "Edit"
+msgstr "Edit"
+
+#: footer.php:42
+#, php-format
+#@ luna
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:54
+#@ luna
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:84
+#@ luna
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: functions.php:104
+#@ luna
+msgid "Drag the MT - Social Icons widget here."
+msgstr "Faites glisser le MT - widget Social Icons ici."
+
+#: functions.php:102
+#@ luna
+msgid "Social Widget Area"
+msgstr "Zone de Widget social"
+
+#: header.php:21
+#@ luna
+msgid "Skip to content"
+msgstr "Passer au contenu"
+
+#: inc/customizer.php:90
+#@ luna
+msgid "Theme Colors"
+msgstr "Couleurs de thème"
+
+#: inc/customizer.php:69
+#@ luna
+msgid "Edit your general color settings."
+msgstr "Modifier vos paramètres de couleur générale."
+
+#: inc/customizer.php:77
+#@ luna
+msgid "Navigation"
+msgstr "Navigation"
+
+#: inc/customizer.php:78
+#@ luna
+msgid "Edit your theme navigation settings."
+msgstr "Modifier les paramètres de navigation de votre thème."
+
+#: inc/customizer.php:83
+#@ luna
+msgid "Navigation Settings"
+msgstr "Paramètres de navigation"
+
+#: inc/customizer.php:68
+#@ luna
+msgid "General Colors"
+msgstr "Général couleurs"
+
+#: inc/customizer.php:113
+#@ luna
+msgid "Menu Toggle Display"
+msgstr "Activer/désactiver l'affichage du menu"
+
+#: inc/customizer.php:117
+#@ luna
+msgid "Icon"
+msgstr "Icône"
+
+#: header.php:61
+#: inc/customizer.php:118
+#@ luna
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer.php:119
+#@ luna
+msgid "Icon and Menu"
+msgstr "Icône et Menu"
+
+#: inc/customizer.php:224
+#@ luna
+msgid "Logo and Icons"
+msgstr "Logo et icônes"
+
+#: inc/customizer.php:226
+#@ luna
+msgid "Upload a logo to replace the default site name and description in the header. Also, upload your site favicon and Apple Icons."
+msgstr "Télécharger un logo pour remplacer le nom par défaut du site et la description dans l'en-tête. En outre, télécharger votre favicon du site et des icônes d'Apple."
+
+#: inc/customizer.php:234
+#@ luna
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:248
+#@ luna
+msgid "Logo Size"
+msgstr "Taille du logo"
+
+#: inc/customizer.php:249
+#@ luna
+msgid "Change the width of the Logo in PX. Only enter numeric value."
+msgstr "Modifier la largeur du Logo en PX. Seulement entrer une valeur numérique."
+
+#: inc/customizer.php:271
+#@ luna
+msgid "Upload your favicon (16x16 pixels)"
+msgstr "Télécharger votre favicon (16 x 16 pixels)"
+
+#: inc/customizer.php:291
+#@ luna
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Télécharger votre Apple Touch Icon (144 x 144 pixels)"
+
+#: inc/customizer.php:311
+#@ luna
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Télécharger votre Apple Touch Icon (114 x 114 pixels)"
+
+#: inc/customizer.php:331
+#@ luna
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Télécharger votre Apple Touch Icon (72 x 72 pixels)"
+
+#: inc/customizer.php:351
+#@ luna
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Télécharger votre Apple Touch Icon (57 x 57 pixels)"
+
+#: inc/customizer.php:593
+#@ luna
+msgid "Home Page Options"
+msgstr "Options de la Page d'accueil"
+
+#: inc/customizer.php:368
+#: inc/customizer.php:594
+#@ luna
+msgid "Edit your home page settings"
+msgstr "Modifier les paramètres de votre page d'accueil"
+
+#: inc/customizer.php:447
+#@ luna
+msgid "Background Color"
+msgstr "Couleur d'arrière-plan"
+
+#: inc/customizer.php:498
+#: inc/customizer.php:961
+#: inc/customizer.php:1558
+#@ luna
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: inc/customizer.php:973
+#@ luna
+msgid "Link Color"
+msgstr "Couleur des liens"
+
+#: inc/customizer.php:1041
+#@ luna
+msgid "Button Color"
+msgstr "Bouton couleur"
+
+#: inc/customizer.php:563
+#: inc/customizer.php:1065
+#: inc/customizer.php:1749
+#@ luna
+msgid "Button Hover Color"
+msgstr "Bouton Hover couleur"
+
+#: inc/customizer.php:691
+#@ luna
+msgid "Footer Options"
+msgstr "Options de pied de page"
+
+#: inc/customizer.php:692
+#@ luna
+msgid "Edit your footer options"
+msgstr "Modifier vos options de pied de page"
+
+#: inc/customizer.php:697
+#@ luna
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/customizer.php:699
+#@ luna
+msgid "Customize your footer area"
+msgstr "Personnaliser votre zone de pied de page"
+
+#: inc/customizer.php:736
+#: inc/customizer.php:833
+#@ luna
+msgid "Footer Byline Text"
+msgstr "Texte de pied de page Byline"
+
+#: inc/customizer.php:750
+#@ luna
+msgid "Hide Footer Byline"
+msgstr "Masquer le Byline de pied de page"
+
+#: inc/customizer.php:761
+#@ luna
+msgid "Footer Background Color"
+msgstr "Couleur d'arrière-plan de pied de page"
+
+#: inc/customizer.php:773
+#@ luna
+msgid "Footer Text Color"
+msgstr "Couleur de texte de pied de page"
+
+#: inc/customizer.php:785
+#@ luna
+msgid "Footer Heading Color"
+msgstr "Pied de page en-tête couleur"
+
+#: inc/customizer.php:797
+#@ luna
+msgid "Footer Link Color"
+msgstr "Couleur des liens footer"
+
+#: inc/customizer.php:809
+#@ luna
+msgid "Footer Link Hover Color"
+msgstr "Pied de page lien Hover couleur"
+
+#: inc/customizer.php:874
+#@ luna
+msgid "Social Media Icons"
+msgstr "Icônes de médias sociaux"
+
+#: inc/customizer.php:875
+#@ luna
+msgid "Edit your social media icons"
+msgstr "Modifier vos icônes de médias sociaux"
+
+#: inc/customizer.php:880
+#@ luna
+msgid "Social Media Settings"
+msgstr "Paramètres de médias sociaux"
+
+#: inc/customizer.php:895
+#@ luna
+msgid "Hide Social Media Icons"
+msgstr "Masquer les icônes de médias sociaux"
+
+#: inc/customizer.php:913
+#@ luna
+msgid "Social Icon Size"
+msgstr "Taille des icônes sociales"
+
+#: inc/customizer.php:929
+#@ luna
+msgid "Social Icon Color"
+msgstr "Couleur de l'icône sociale"
+
+#: inc/customizer.php:941
+#@ luna
+msgid "Social Icon Hover Color"
+msgstr "Icône sociale Hover couleur"
+
+#: inc/customizer.php:985
+#@ luna
+msgid "Hover Color"
+msgstr "Couleur Hover"
+
+#: inc/customizer.php:1005
+#@ luna
+msgid "Page Colors"
+msgstr "Page couleurs"
+
+#: inc/customizer.php:1007
+#@ luna
+msgid "Set your page colors."
+msgstr "Définir les couleurs de votre page."
+
+#: inc/customizer.php:1017
+#@ luna
+msgid "Page Header Background Color"
+msgstr "Couleur d'arrière-plan de page en-tête"
+
+#: inc/customizer.php:997
+#@ luna
+msgid "Site Title Color"
+msgstr "Couleur du titre site"
+
+#: inc/customizer.php:1029
+#@ luna
+msgid "Entry Title Color"
+msgstr "Entrée titre couleur"
+
+#: inc/customizer.php:125
+#@ luna
+msgid "Navigation Colors"
+msgstr "Couleurs de navigation"
+
+#: inc/customizer.php:127
+#@ luna
+msgid "Set your theme navigation colors."
+msgstr "Définir votre thème de couleurs de navigation."
+
+#: inc/customizer.php:149
+#@ luna
+msgid "Navigation Link Color"
+msgstr "Couleur de lien de navigation"
+
+#: inc/customizer.php:161
+#@ luna
+msgid "Navigation Link Hover Color"
+msgstr "Navigation Link Hover couleur"
+
+#: inc/customizer.php:1221
+#@ luna
+msgid "Fonts"
+msgstr "Polices"
+
+#: inc/customizer.php:1328
+#@ luna
+msgid "Body Font Size"
+msgstr "Taille de police de corps"
+
+#: inc/customizer.php:1091
+#@ luna
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer.php:1381
+#@ luna
+msgid "ModernThemes Plugin Options"
+msgstr "Options du ModernThemes Plugin"
+
+#: inc/customizer.php:1382
+#@ luna
+msgid "If you have installed any of our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific options. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1388
+#@ luna
+msgid "Services"
+msgstr "Services"
+
+#: inc/customizer.php:1390
+#@ luna
+msgid "If you have installed the Services plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1433
+#@ luna
+msgid "Projects"
+msgstr "Projets"
+
+#: inc/customizer.php:1435
+#@ luna
+msgid "If you have installed the Projects plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1445
+#@ luna
+msgid "Hover Background"
+msgstr "Placez le curseur fond"
+
+#: inc/customizer.php:1457
+#@ luna
+msgid "Hover Text"
+msgstr "Placez le curseur texte"
+
+#: inc/customizer.php:1465
+#@ luna
+msgid "Team Members"
+msgstr "Membres de l'équipe"
+
+#: inc/customizer.php:1467
+#@ luna
+msgid "If you have installed the Team Members plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1525
+#@ luna
+msgid "Team Member Divider"
+msgstr "Diviseur de membre de l'équipe"
+
+#: inc/customizer.php:1534
+#@ luna
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/customizer.php:1536
+#@ luna
+msgid "If you have installed the Testimonials plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1546
+#@ luna
+msgid "Content Background"
+msgstr "Fond contenu"
+
+#: inc/customizer.php:1571
+#@ luna
+msgid "Font Style"
+msgstr "Style de police"
+
+#: inc/customizer.php:1584
+#@ luna
+msgid "Skill Bars"
+msgstr "Barres de compétences"
+
+#: inc/customizer.php:1586
+#@ luna
+msgid "If you have installed the Skill Bars plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1596
+#@ luna
+msgid "Skill Bar Color"
+msgstr "Couleur de la barre de compétences"
+
+#: inc/customizer.php:1608
+#@ luna
+msgid "Skill Bar Background"
+msgstr "Arrière-plan de la barre de compétences"
+
+#: inc/customizer.php:1616
+#@ luna
+msgid "Details"
+msgstr "Détails"
+
+#: inc/customizer.php:1618
+#@ luna
+msgid "If you have installed the Details Odometer plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1628
+#: inc/customizer.php:1662
+#@ luna
+msgid "Icon Color"
+msgstr "Couleur de l'icône"
+
+#: inc/customizer.php:1650
+#@ luna
+msgid "Home Page Columns"
+msgstr "Colonnes de la Page d'accueil"
+
+#: inc/customizer.php:1652
+#@ luna
+msgid "If you have installed the Home Page Columns plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/extras.php:52
+#, php-format
+#@ luna
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:23
+#@ luna
+msgid "Posts navigation"
+msgstr "Navigation messages"
+
+#: inc/template-tags.php:27
+#@ luna
+msgid "Older posts"
+msgstr "Messages plus anciens"
+
+#: inc/template-tags.php:31
+#@ luna
+msgid "Newer posts"
+msgstr "Messages plus récents"
+
+#: inc/template-tags.php:56
+#@ luna
+msgid "Post navigation"
+msgstr "Poste navigation"
+
+#: inc/template-tags.php:86
+#, php-format
+#@ luna
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posté le %s"
+
+#: inc/template-tags.php:91
+#, php-format
+#@ luna
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108
+#: inc/template-tags.php:114
+#@ luna
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:110
+#, php-format
+#@ luna
+msgid "Posted in %1$s"
+msgstr "Posté dans %1$s"
+
+#: inc/template-tags.php:116
+#, php-format
+#@ luna
+msgid "Tagged %1$s"
+msgstr "Taggé %1$s"
+
+#: inc/template-tags.php:122
+#@ luna
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:122
+#@ luna
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: inc/template-tags.php:122
+#@ luna
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: inc/template-tags.php:143
+#, php-format
+#@ luna
+msgid "Category: %s"
+msgstr "Catégorie : %s"
+
+#: inc/template-tags.php:145
+#, php-format
+#@ luna
+msgid "Tag: %s"
+msgstr "Tag : %s"
+
+#: inc/template-tags.php:147
+#, php-format
+#@ luna
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: inc/template-tags.php:149
+#, php-format
+#@ luna
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#: inc/template-tags.php:149
+#@ luna
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:151
+#, php-format
+#@ luna
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: inc/template-tags.php:151
+#@ luna
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:153
+#, php-format
+#@ luna
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: inc/template-tags.php:153
+#@ luna
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:156
+#@ luna
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartés"
+
+#: inc/template-tags.php:158
+#@ luna
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeries"
+
+#: inc/template-tags.php:160
+#@ luna
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:162
+#@ luna
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: inc/template-tags.php:164
+#@ luna
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citations"
+
+#: inc/template-tags.php:166
+#@ luna
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Liens"
+
+#: inc/template-tags.php:168
+#@ luna
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuts"
+
+#: inc/template-tags.php:170
+#@ luna
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:172
+#@ luna
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:175
+#, php-format
+#@ luna
+msgid "Archives: %s"
+msgstr "Archives : %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+#, php-format
+#@ luna
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:181
+#@ luna
+msgid "Archives"
+msgstr "Archives"
+
+#: panel/class-tgm-plugin-activation.php:333
+#@ luna
+msgid "Install Required Plugins"
+msgstr "Installer les Plugins nécessaires"
+
+#: panel/class-tgm-plugin-activation.php:334
+#@ luna
+msgid "Install Plugins"
+msgstr "Installer des Plugins"
+
+#: panel/class-tgm-plugin-activation.php:335
+#, php-format
+#@ luna
+msgid "Installing Plugin: %s"
+msgstr "Installer le Plugin : %s"
+
+#: panel/class-tgm-plugin-activation.php:338
+#, php-format
+#@ luna
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant : %1$s."
+msgstr[1] "Ce thème nécessite les plugins suivants : %1$s."
+
+#: panel/class-tgm-plugin-activation.php:368
+#, php-format
+#@ luna
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Les attributs requis plugin est actuellement inactive : %1$s."
+msgstr[1] "Les attributs requis plugins sont actuellement inactifs : %1$s."
+
+#: panel/class-tgm-plugin-activation.php:373
+#, php-format
+#@ luna
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin est actuellement inactive a recommandé ce qui suit : %1$s."
+msgstr[1] "Plugins sont actuellement inactifs a recommandé ce qui suit : %1$s."
+
+#: panel/class-tgm-plugin-activation.php:353
+#, php-format
+#@ luna
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Le plugin suivant doit être mis à jour pour sa version la plus récente pour assurer une compatibilité maximale avec ce thème : %1$s."
+msgstr[1] "Les plugins suivants doivent être mis à jour vers leur dernière version afin d'assurer une compatibilité maximale avec ce thème : %1$s."
+
+#: panel/class-tgm-plugin-activation.php:383
+#@ luna
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l'installation du plugin"
+msgstr[1] "Commencer l'installation de plugins"
+
+#: panel/class-tgm-plugin-activation.php:393
+#@ luna
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer à activer le plugin"
+msgstr[1] "Commencer l'activation des plugins"
+
+#: panel/class-tgm-plugin-activation.php:397
+#@ luna
+msgid "Return to Required Plugins Installer"
+msgstr "Revenir à l'installateur de Plugins requis"
+
+#: panel/class-tgm-plugin-activation.php:398
+#@ luna
+msgid "Return to the dashboard"
+msgstr "Retourner au tableau de bord"
+
+#: panel/class-tgm-plugin-activation.php:399
+#: panel/class-tgm-plugin-activation.php:3034
+#@ luna
+msgid "Plugin activated successfully."
+msgstr "Plugin activé avec succès."
+
+#: panel/class-tgm-plugin-activation.php:403
+#, php-format
+#@ luna
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tous les plugins installé et activé avec succès. %1$s"
+
+#: panel/class-tgm-plugin-activation.php:404
+#@ luna
+msgid "Dismiss this notice"
+msgstr "Rejeter cet avis"
+
+#: panel/class-tgm-plugin-activation.php:833
+#: panel/class-tgm-plugin-activation.php:3443
+#@ luna
+msgid "Return to the Dashboard"
+msgstr "Retourner au tableau de bord"
+
+#: panel/class-tgm-plugin-activation.php:2197
+#@ luna
+msgid "Pre-Packaged"
+msgstr "Préemballés"
+
+#: panel/class-tgm-plugin-activation.php:2191
+#@ luna
+msgid "WordPress Repository"
+msgstr "WordPress référentiel"
+
+#: panel/class-tgm-plugin-activation.php:2172
+#@ luna
+msgid "Required"
+msgstr "Obligatoire"
+
+#: panel/class-tgm-plugin-activation.php:2175
+#@ luna
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: panel/class-tgm-plugin-activation.php:2214
+#@ luna
+msgid "Not Installed"
+msgstr "Pas installé"
+
+#: panel/class-tgm-plugin-activation.php:2218
+#@ luna
+msgid "Installed But Not Activated"
+msgstr "Installé mais non activé"
+
+#: panel/class-tgm-plugin-activation.php:2608
+#@ luna
+msgid "Install"
+msgstr "Installer"
+
+#: panel/class-tgm-plugin-activation.php:2617
+#@ luna
+msgid "Activate"
+msgstr "Activer"
+
+#: panel/class-tgm-plugin-activation.php:2441
+#@ luna
+msgid "Plugin"
+msgstr "Plugin"
+
+#: panel/class-tgm-plugin-activation.php:2442
+#@ luna
+msgid "Source"
+msgstr "Source"
+
+#: panel/class-tgm-plugin-activation.php:2443
+#@ luna
+msgid "Type"
+msgstr "Type"
+
+#: panel/class-tgm-plugin-activation.php:2448
+#@ luna
+msgid "Status"
+msgstr "Statut"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: panel/class-tgm-plugin-activation.php:2837
+#: panel/class-tgm-plugin-activation.php:400
+#@ luna
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:3033
+#@ luna
+msgid "Plugin activation failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3374
+#@ luna
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Commence le processus d'installation et d'activation. Ce processus peut prendre un certain temps sur certains hôtes, donc s'il vous plaît être patient."
+
+#: panel/class-tgm-plugin-activation.php:3375
+#, php-format
+#@ luna
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3375
+#: panel/class-tgm-plugin-activation.php:3381
+#@ luna
+msgid "Show Details"
+msgstr "Afficher les caractères invisibles"
+
+#: panel/class-tgm-plugin-activation.php:3375
+#: panel/class-tgm-plugin-activation.php:3381
+#@ luna
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: panel/class-tgm-plugin-activation.php:3376
+#@ luna
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3377
+#, php-format
+#@ luna
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3380
+#@ luna
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3369
+#, php-format
+#@ luna
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3370
+#, php-format
+#@ luna
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3381
+#, php-format
+#@ luna
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3382
+#@ luna
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été terminées."
+
+#: panel/class-tgm-plugin-activation.php:3383
+#, php-format
+#@ luna
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/theme-admin-page.php:23
+#@ luna
+msgid "Premium Plugins"
+msgstr "Premium Plugins"
+
+#: panel/theme-admin-page.php:31
+#@ luna
+msgid "Get Plugins"
+msgstr "Téléchargez les Plugins"
+
+#: panel/theme-admin-page.php:35
+#@ luna
+msgid "Documentation"
+msgstr "Documentation"
+
+#: panel/theme-admin-page.php:171
+#@ luna
+msgid "Changelog"
+msgstr "Changelog"
+
+#: panel/theme-admin-page.php:175
+#@ luna
+msgid "1.0.0 - New Theme!"
+msgstr "1.0.0 - nouveau thème !"
+
+#: search.php:15
+#, php-format
+#@ luna
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: widgets/contact-info.php:11
+#@ luna
+msgid "Display your contact info"
+msgstr "Affichez vos coordonnées"
+
+#: widgets/contact-info.php:13
+#@ luna
+msgid "MT - Contact Info Widget"
+msgstr "MT - Widget Info Contact"
+
+#: widgets/contact-info.php:51
+#: widgets/video-widget.php:49
+#: widgets/widget-mt-cta.php:54
+#: widgets/widget-mt-home-news.php:54
+#@ luna
+msgid "Title"
+msgstr "Titre"
+
+#: widgets/contact-info.php:59
+#@ luna
+msgid "Enter your address"
+msgstr "Entrez votre adresse"
+
+#: widgets/contact-info.php:65
+#@ luna
+msgid "Enter your phone number"
+msgstr "Entrez votre numéro de téléphone"
+
+#: widgets/contact-info.php:71
+#@ luna
+msgid "Enter your email address"
+msgstr "Entrez votre adresse e-mail"
+
+#: widgets/contact-info.php:169
+#@ luna
+msgid "Contact info"
+msgstr "L'information de contact"
+
+#: widgets/contact-info.php:193
+#@ luna
+msgid "Address: "
+msgstr "Adresse : "
+
+#: widgets/contact-info.php:203
+#@ luna
+msgid "Phone: "
+msgstr "Téléphone : "
+
+#: widgets/contact-info.php:213
+#@ luna
+msgid "Email: "
+msgstr "Messagerie: "
+
+#: widgets/video-widget.php:13
+#@ luna
+msgid "Video for your sidebar."
+msgstr "Vidéo de votre barre latérale."
+
+#: widgets/video-widget.php:15
+#@ luna
+msgid "MT - Video Widget"
+msgstr "MT - vidéo Widget"
+
+#: widgets/video-widget.php:57
+#@ luna
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Collez l'URL de la vidéo (uniquement depuis un réseau qui supporte oEmbed, comme Youtube, Vimeo, etc.) :"
+
+#: widgets/video-widget.php:151
+#@ luna
+msgid "Video"
+msgstr "Vidéo"
+
+#: widgets/widget-mt-cta.php:13
+#@ luna
+msgid "Create a call-to-action for a home page widget area."
+msgstr "Créer une appel à l'action pour une zone de widget page d'accueil."
+
+#: widgets/widget-mt-cta.php:15
+#@ luna
+msgid "MT - Call-to-Action"
+msgstr "MT - appel à l'Action"
+
+#: widgets/widget-mt-cta.php:64
+#@ luna
+msgid "Enter your call to action."
+msgstr "Entrez votre appel à l'action."
+
+#: widgets/widget-mt-cta.php:74
+#@ luna
+msgid "Link for the button"
+msgstr "Lien du bouton"
+
+#: widgets/widget-mt-cta.php:84
+#@ luna
+msgid "Title for the button"
+msgstr "Titre du bouton"
+
+#: widgets/widget-mt-home-news.php:15
+#@ luna
+msgid "MT - Home Posts"
+msgstr "MT - maison de messages"
+
+#: widgets/widget-mt-home-news.php:71
+#@ luna
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Entrez la limace pour votre catégorie ou laissez vide pour afficher les messages de toutes les catégories."
+
+#: widgets/widget-mt-social.php:11
+#@ luna
+msgid "Drag this widget to the Social Widget Area."
+msgstr "Faites glisser ce widget à la zone de Widget Social."
+
+#: widgets/widget-mt-social.php:13
+#@ luna
+msgid "MT - Social Icons"
+msgstr "MT - icônes sociales"
+
+#: widgets/widget-mt-social.php:74
+#@ luna
+msgid "Facebook URL:"
+msgstr "Facebook URL :"
+
+#: widgets/widget-mt-social.php:84
+#@ luna
+msgid "Twitter URL:"
+msgstr "Twitter URL :"
+
+#: widgets/widget-mt-social.php:94
+#@ luna
+msgid "LinkedIn URL:"
+msgstr "LinkedIn URL :"
+
+#: widgets/widget-mt-social.php:104
+#@ luna
+msgid "Google URL:"
+msgstr "Google URL :"
+
+#: widgets/widget-mt-social.php:114
+#@ luna
+msgid "Instagram URL:"
+msgstr "Instagram URL :"
+
+#: widgets/widget-mt-social.php:124
+#@ luna
+msgid "Flickr URL:"
+msgstr "URL Flickr :"
+
+#: widgets/widget-mt-social.php:134
+#@ luna
+msgid "Pinterest URL:"
+msgstr "Pinterest URL :"
+
+#: widgets/widget-mt-social.php:144
+#@ luna
+msgid "Youtube URL:"
+msgstr "YouTube URL :"
+
+#: widgets/widget-mt-social.php:154
+#@ luna
+msgid "Vimeo URL:"
+msgstr "Vimeo URL :"
+
+#: widgets/widget-mt-social.php:164
+#@ luna
+msgid "Tumblr URL:"
+msgstr "Tumblr URL :"
+
+#: widgets/widget-mt-social.php:174
+#@ luna
+msgid "Dribbble URL:"
+msgstr "Dribbble URL :"
+
+#: widgets/widget-mt-social.php:184
+#@ luna
+msgid "RSS URL:"
+msgstr "URL DU FLUX RSS :"
+
+#: 404.php:29
+#@ luna
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page est introuvable."
+
+#: comments.php:38
+#: comments.php:59
+#@ luna
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:39
+#: comments.php:60
+#@ luna
+msgid "Newer Comments"
+msgstr "Commentaires récents"
+
+#: inc/customizer.php:137
+#@ luna
+msgid "Navigation Background Color"
+msgstr "Couleur d'arrière-plan de navigation"
+
+#: inc/customizer.php:423
+#@ luna
+msgid "Home Hero Options"
+msgstr "Options de héros maison"
+
+#: inc/customizer.php:1401
+#@ luna
+msgid "Service Icon"
+msgstr "Icône du service"
+
+#: inc/customizer.php:1413
+#@ luna
+msgid "Service Icon Background"
+msgstr "Service icône arrière-plan"
+
+#: inc/customizer.php:1425
+#@ luna
+msgid "Service Icon Border"
+msgstr "Service de frontière icône"
+
+#: inc/customizer.php:1477
+#@ luna
+msgid "Team Member Icon Color"
+msgstr "Couleur de l'icône membre équipe"
+
+#: inc/customizer.php:1489
+#@ luna
+msgid "Team Member Icon Border"
+msgstr "Membre de l'équipe icône frontière"
+
+#: inc/customizer.php:1501
+#@ luna
+msgid "Team Member Icon Hover"
+msgstr "Membre de l'équipe icône Hover"
+
+#: inc/customizer.php:1513
+#@ luna
+msgid "Team Member Icon Background Hover"
+msgstr "Équipe membre icône arrière-plan Hover"
+
+#: inc/customizer.php:1641
+#@ luna
+msgid "Number Color"
+msgstr "Nombre de couleurs"
+
+#: inc/customizer.php:486
+#@ luna
+msgid "Title Color"
+msgstr "Couleur du titre"
+
+#: inc/customizer.php:539
+#: inc/customizer.php:1053
+#: inc/customizer.php:1723
+#@ luna
+msgid "Button Text Color"
+msgstr "Bouton couleur du texte"
+
+#: inc/customizer.php:1775
+#@ luna
+msgid "Text Align"
+msgstr "Aligner du texte"
+
+#: widgets/widget-mt-home-news.php:13
+#@ luna
+msgid "Show your blog posts on your home page."
+msgstr "Afficher vos messages de blog sur votre page d'accueil."
+
+#: content.php:22
+#: widgets/widget-mt-home-news.php:41
+#: widgets/widget-mt-home-news.php:180
+#@ luna
+msgid "View More"
+msgstr "Voir plus"
+
+#: inc/customizer.php:1671
+#@ luna
+msgid "Home Posts"
+msgstr "Accueil messages"
+
+#: inc/customizer.php:1673
+#@ luna
+msgid "Edit your MT - Home Posts options"
+msgstr "Modifier votre MT - options de la page d'accueil de messages"
+
+#: panel/theme-admin-page.php:43
+#@ luna
+msgid "Read Docs"
+msgstr "Lire les Docs"
+
+#: inc/customizer.php:367
+#@ luna
+msgid "Home Hero Section"
+msgstr "Section d'accueil de héros"
+
+#: inc/customizer.php:425
+#@ luna
+msgid "Edit the options for the home page Hero section."
+msgstr "Modifier les options de la page d'accueil section Hero."
+
+#: inc/customizer.php:434
+#@ luna
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: inc/customizer.php:511
+#@ luna
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: inc/customizer.php:525
+#@ luna
+msgid "Hero Button URL"
+msgstr "Héros bouton URL"
+
+#: panel/theme-admin-page.php:47
+#@ luna
+msgid "ModernThemes"
+msgstr "ModernThemes"
+
+#: panel/theme-admin-page.php:51
+#@ luna
+msgid "Need some more themes? We have a large selection of both free and premium themes to add to your collection."
+msgstr "Besoin de quelques autres thèmes ? Nous avons un grand choix de thèmes gratuites ou payantes pour ajouter à votre collection."
+
+#: panel/theme-admin-page.php:55
+#@ luna
+msgid "Visit Us"
+msgstr "Visitez notre site"
+
+#: panel/theme-admin-page.php:59
+#@ luna
+msgid "Get the Premium Experience."
+msgstr "Téléchargez l'expérience prime."
+
+#: panel/theme-admin-page.php:63
+#: panel/theme-admin-page.php:133
+#@ luna
+msgid "Plugin Compatibility"
+msgstr "Compatibilité du plugin"
+
+#: panel/theme-admin-page.php:67
+#: panel/theme-admin-page.php:137
+#@ luna
+msgid "Use our new free plugins with this theme to add functionality for things like projects, clients, team members and more. Compatible with all premium themes!"
+msgstr "Utilisez nos nouveaux plugins gratuits avec ce thème pour ajouter des fonctionnalités pour des choses comme les projets, les clients, les membres de l'équipe et plus. Compatible avec tous les thèmes premium !"
+
+#: panel/theme-admin-page.php:71
+#@ luna
+msgid "More Home Sections"
+msgstr "Plusieurs Sections de maison"
+
+#: panel/theme-admin-page.php:87
+#@ luna
+msgid "Footer Widget Areas"
+msgstr "Zones de Widget de pied de page"
+
+#: panel/theme-admin-page.php:96
+#@ luna
+msgid "More Sidebars"
+msgstr "Plus encadrés"
+
+#: panel/theme-admin-page.php:100
+#@ luna
+msgid "Sometimes you need different sidebars for different pages. We got you covered, offering up to 5 different sidebars."
+msgstr "Vous devez parfois encadrés différents pour les différentes pages. Nous avons obtenu vous couvert, offrant jusqu'à 5 différents encadrés."
+
+#: panel/theme-admin-page.php:116
+#@ luna
+msgid "Free Support"
+msgstr "Support gratuit"
+
+#: panel/theme-admin-page.php:120
+#@ luna
+msgid "Call on us to help you out. Premium themes come with free support that goes directly to our support staff."
+msgstr "Appelez nous pour vous dépanner. Thèmes Premium sont livrés avec support gratuit qui va directement à notre personnel de soutien."
+
+#: panel/theme-admin-page.php:124
+#@ luna
+msgid "View Premium Version"
+msgstr "Voir la Version Premium"
+
+#: widgets/widget-mt-home-news.php:63
+#@ luna
+msgid "View More Text"
+msgstr "Voir plus de texte"
+
+#: 404.php:15
+#@ luna
+msgid "404 error."
+msgstr "erreur 404."
+
+#: 404.php:33
+#@ luna
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "On dirait que rien n'a été trouvé à cet endroit. Peut-être essayer une recherche ?"
+
+#: functions.php:93
+#@ luna
+msgid "Default Home Page - News"
+msgstr "Page d'accueil par défaut - Actualités"
+
+#: functions.php:95
+#@ luna
+msgid "Use this widget area to display MT - Home Posts widget on your default home page"
+msgstr "Utilisez cette zone de widget pour afficher MT - widget maison de messages sur votre page d'accueil par défaut"
+
+#: inc/customizer.php:173
+#@ luna
+msgid "Navigation Icon"
+msgstr "Icône de navigation"
+
+#: inc/customizer.php:185
+#@ luna
+msgid "Navigation Button Border"
+msgstr "Frontière de bouton de navigation"
+
+#: inc/customizer.php:198
+#@ luna
+msgid "Navigation Button Hover"
+msgstr "Navigation bouton sensitif"
+
+#: inc/customizer.php:210
+#@ luna
+msgid "Navigation Icon Hover"
+msgstr "Hover icône de navigation"
+
+#: inc/customizer.php:373
+#@ luna
+msgid "Video Option"
+msgstr "Option vidéo"
+
+#: inc/customizer.php:375
+#@ luna
+msgid "Please select the <strong>Home Page - Video</strong> template file for your Home page. Then upload your video files with the WordPress Media uploader or to your root folder and type the URLs (ex: video_banner.mp4) of the video files in the following boxes. If you leave them blank then the featured image of the page you set to <strong>Home Page - Video</strong> will be used instead. It is advised that you convert your video to mp4, webm, and ogv for full browser support, you can find more info on that <a href=\"http://www.syntaxxx.com/how-to-html5-background-video/\">here</a>.</br></br> Video will only play on desktop screens, as mobile devices do not support them. On mobile the featured image is displayed (so you should always set one) and it should be at least 1920x1000 in size for best appearance."
+msgstr ""
+
+#: inc/customizer.php:386
+#@ luna
+msgid "Video Banner .mp4 File"
+msgstr "Bannière vidéo au format .mp4"
+
+#: inc/customizer.php:387
+#@ luna
+msgid "ex: video_banner.mp4"
+msgstr "ex : video_banner.mp4"
+
+#: inc/customizer.php:400
+#@ luna
+msgid "Video Banner .webm File"
+msgstr "Bannière vidéo au format .webm"
+
+#: inc/customizer.php:401
+#@ luna
+msgid "ex: video_banner.webm"
+msgstr "ex : video_banner.webm"
+
+#: inc/customizer.php:414
+#@ luna
+msgid "Video Banner .ogv File"
+msgstr "Bannière vidéo au format .ogv"
+
+#: inc/customizer.php:415
+#@ luna
+msgid "ex: video_banner.ogv"
+msgstr "ex : video_banner.ogv"
+
+#: inc/customizer.php:460
+#@ luna
+msgid "Hero Title"
+msgstr "Titre de héros"
+
+#: inc/customizer.php:472
+#@ luna
+msgid "Hero Text"
+msgstr "Texte de héros"
+
+#: inc/customizer.php:551
+#: inc/customizer.php:1736
+#@ luna
+msgid "Button Border Color"
+msgstr "Bouton couleur de la bordure"
+
+#: inc/customizer.php:575
+#: inc/customizer.php:1077
+#: inc/customizer.php:1762
+#@ luna
+msgid "Button Text Hover Color"
+msgstr "Couleur du bouton texte Hover"
+
+#: inc/customizer.php:599
+#@ luna
+msgid "Home Page - Works"
+msgstr "Home Page - œuvres"
+
+#: inc/customizer.php:601
+#@ luna
+msgid "Edit the Works options for the Home Page layout. You must also download our <em>Projects plugin</em> from our <a href=\"http://modernthemes.net/plugins/\" target=\"_blank\">Plugins Page</a>"
+msgstr ""
+
+#: inc/customizer.php:612
+#@ luna
+msgid "Work Section Background"
+msgstr "Arrière-plan de Section de travail"
+
+#: inc/customizer.php:625
+#@ luna
+msgid "Single Work Background"
+msgstr "Contexte de travail unique"
+
+#: inc/customizer.php:638
+#@ luna
+msgid "Single Work Text"
+msgstr "Texte de travail unique"
+
+#: inc/customizer.php:651
+#@ luna
+msgid "Single Work Text Hover"
+msgstr "Ouvrage unique texte Hover"
+
+#: inc/customizer.php:660
+#@ luna
+msgid "Home Page - News"
+msgstr "Page d'Accueil - News"
+
+#: inc/customizer.php:662
+#@ luna
+msgid "This section is for customizing <strong>MT - Home Posts</strong> options for the home page layout.<br><br>Add the <strong>MT - Home Posts</strong> widget to the Default Home Page - News widget area."
+msgstr "Cette section est pour personnaliser les options de <strong>MT - maison de messages</strong> pour la mise en page d'accueil.<br><br>Ajouter le widget de <strong>MT - page d'accueil de messages</strong> à la Default Page d'accueil - zone de widget de News."
+
+#: inc/customizer.php:673
+#@ luna
+msgid "News Section Background"
+msgstr "Nouvelle Section fond"
+
+#: inc/customizer.php:710
+#@ luna
+msgid "Footer Contact Title"
+msgstr "Pied de page titre Contact"
+
+#: inc/customizer.php:722
+#@ luna
+msgid "Footer Contact Area"
+msgstr "Zone de pied de page Contact"
+
+#: inc/customizer.php:821
+#@ luna
+msgid "Footer Bottom Background"
+msgstr "Pied bas fond"
+
+#: inc/customizer.php:845
+#@ luna
+msgid "Footer Byline Link"
+msgstr "Pied de page Byline lien"
+
+#: inc/customizer.php:857
+#@ luna
+msgid "Footer Byline Link Hover"
+msgstr "Pied de page Byline lien Hover"
+
+#: inc/customizer.php:1102
+#@ luna
+msgid "Post content"
+msgstr "Après de contenu"
+
+#: inc/customizer.php:1120
+#@ luna
+msgid "Blog Page Title"
+msgstr "Page titre du blog"
+
+#: inc/customizer.php:1133
+#@ luna
+msgid "Blog View More Text"
+msgstr "Blog voir texte plus"
+
+#: inc/customizer.php:1151
+#@ luna
+msgid "Excerpt length"
+msgstr "Longueur de l'extrait"
+
+#: inc/customizer.php:1152
+#@ luna
+msgid "Choose your excerpt length here. Default: 40 words"
+msgstr "Choisissez votre longueur extrait ici. Par défaut : 40 mots"
+
+#: inc/customizer.php:1168
+#@ luna
+msgid "Blog Archive Background"
+msgstr "Fond de Blog Archive"
+
+#: inc/customizer.php:1180
+#@ luna
+msgid "Blog Archive Entry Hover Background"
+msgstr "Fond de Hover pour l'entrée Blog Archive"
+
+#: inc/customizer.php:1192
+#@ luna
+msgid "Blog Archive Entry Border Color"
+msgstr "Couleur de bordure pour l'entrée Blog Archive"
+
+#: inc/customizer.php:1204
+#@ luna
+msgid "Blockquote Border"
+msgstr "Frontière de BLOCKQUOTE"
+
+#: inc/customizer.php:1348
+#@ luna
+msgid "Select your desired font for the headings. Helvetica Neue is the default Heading font."
+msgstr "Sélectionnez votre police souhaitée pour les titres. Helvetica Neue est la police par défaut du titre."
+
+#: inc/customizer.php:1364
+#@ luna
+msgid "Select your desired font for the body. Helvetica Neue is the default Body font."
+msgstr "Sélectionnez votre police désirée pour le corps. Helvetica Neue est la police par défaut du corps."
+
+#: inc/customizer.php:1684
+#@ luna
+msgid "News Link"
+msgstr "News lien"
+
+#: inc/customizer.php:1697
+#@ luna
+msgid "News Link Hover"
+msgstr "News lien Hover"
+
+#: inc/customizer.php:1710
+#@ luna
+msgid "News Text"
+msgstr "Texte de presse"
+
+#: index.php:21
+#@ luna
+msgid "The Blog"
+msgstr "Le Blog"
+
+#: page-home-video.php:44
+#: page-home.php:59
+#@ luna
+msgid "Recently Added"
+msgstr "Récemment ajouté"
+
+#: page-home-video.php:91
+#: page-home.php:106
+#@ luna
+msgid "Sorry, no Projects have been added yet!"
+msgstr "Désolé, aucun projet n'a encore été ajouté !"
+
+#: panel/class-tgm-plugin-activation.php:336
+#@ luna
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:348
+#, php-format
+#@ luna
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:358
+#, php-format
+#@ luna
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:363
+#, php-format
+#@ luna
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:378
+#, php-format
+#@ luna
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:388
+#@ luna
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:401
+#, php-format
+#@ luna
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:402
+#, php-format
+#@ luna
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:405
+#@ luna
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:524
+#@ luna
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:525
+#@ luna
+msgid "Update Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:639
+#@ luna
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:940
+#@ luna
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:940
+#: panel/class-tgm-plugin-activation.php:943
+#@ luna
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:943
+#@ luna
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1121
+#: panel/class-tgm-plugin-activation.php:2833
+#@ luna
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1886
+#, php-format
+#@ luna
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2194
+#@ luna
+msgid "External Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2220
+#@ luna
+msgid "Active"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2226
+#@ luna
+msgid "Required Update not Available"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2229
+#@ luna
+msgid "Requires Update"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2232
+#@ luna
+msgid "Update recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2240
+#, php-format
+#@ luna
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2285
+#, php-format
+#@ luna
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2288
+#, php-format
+#@ luna
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2291
+#, php-format
+#@ luna
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2294
+#, php-format
+#@ luna
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2376
+#@ luna
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2384
+#@ luna
+msgid "Installed version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2392
+#@ luna
+msgid "Minimum required version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2404
+#@ luna
+msgid "Available version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2427
+#, php-format
+#@ luna
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2447
+#@ luna
+msgid "Version"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2496
+#, php-format
+#@ luna
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2500
+#, php-format
+#@ luna
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2505
+#, php-format
+#@ luna
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2575
+#@ luna
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2614
+#@ luna
+msgid "Update"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2648
+#@ luna
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2650
+#@ luna
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2686
+#@ luna
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2688
+#@ luna
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2793
+#@ luna
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2819
+#@ luna
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3367
+#, php-format
+#@ luna
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/theme-admin-page.php:14
+#@ luna
+msgid "Luna Theme Details"
+msgstr "Détails de thème Luna"
+
+#: panel/theme-admin-page.php:19
+#@ luna
+msgid "Thank you for using Luna!"
+msgstr "Merci d'utiliser Luna !"
+
+#: panel/theme-admin-page.php:75
+#@ luna
+msgid "Add more plugin content to your home page with Luna Premium as we offer 4 additional home widget areas to work with. More sections for more portfolio content."
+msgstr "Ajouter plus de contenu de plugin pour votre page d'accueil avec Luna Premium que nous offrons 4 zones de widget maison supplémentaire pour travailler avec. Plus d'articles pour plus de contenu portefeuille."
+
+#: panel/theme-admin-page.php:91
+#@ luna
+msgid "Want more content for your footer? Luna Premium has footer widget areas to populate with any content you want."
+msgstr "Vous voulez plus de contenu pour votre pied de page ? Luna prime a un pied de page widget domaines pour remplir avec n'importe quel contenu que vous souhaitez."
+
+#: panel/theme-admin-page.php:104
+#@ luna
+msgid "Access an additional 65 Google fonts with Luna Premium right in the WordPress customizer."
+msgstr "Accéder à des polices supplémentaires Google 65 avec droit de prime de Luna dans le Personnalisateur de WordPress."
+
+#: panel/theme-admin-page.php:129
+#@ luna
+msgid "Premium Membership. Premium Experience."
+msgstr "Abonnement Premium. Expérience de haut de gamme."
+
+#: panel/theme-admin-page.php:141
+#@ luna
+msgid "Agency Designed Themes"
+msgstr "Agence conçu thèmes"
+
+#: panel/theme-admin-page.php:145
+#@ luna
+msgid "Look as good as can be with our new premium themes. Each one is agency designed with modern styles and professional layouts."
+msgstr "Aussi bon que le regard peut être avec nos nouveaux thèmes premium. Chacun est conçu avec des styles modernes et mises en page professionnelles."
+
+#: panel/theme-admin-page.php:149
+#@ luna
+msgid "Membership Options"
+msgstr "Options d'adhésion"
+
+#: panel/theme-admin-page.php:153
+#@ luna
+msgid "We have options to fit every budget. Choose between a single theme, or access to all current and future themes for a year, or forever!"
+msgstr "Nous avons des options pour s'adapter à tous les budgets. Choisissez entre un thème unique, ou l'accès à tous les et l'avenir des thèmes pour une année, ou pour toujours !"
+
+#: panel/theme-admin-page.php:157
+#@ luna
+msgid "Access to New Themes"
+msgstr "Accès à de nouveaux thèmes"
+
+#: panel/theme-admin-page.php:161
+#@ luna
+msgid "New themes added monthly! When you purchase a premium membership you get access to all premium themes, with new themes added monthly."
+msgstr "Nouveaux thèmes ajoutés tous les mois ! Lorsque vous achetez un abonnement premium, vous avez accès à tous les thèmes premium, avec de nouveaux thèmes ajoutés tous les mois."
+
+#: panel/theme-admin-page.php:166
+#@ luna
+msgid "Get Premium Membership"
+msgstr "Obtenir l'adhésion Premium"
+
+#: inc/customizer.php:39
+#@ luna
+msgid "Luna Premium"
+msgstr "Luna prime"
+
+#: inc/customizer.php:41
+#@ luna
+msgid "Need some more Luna? If you want to see what additional features <a href=\"http://modernthemes.net/premium-wordpress-themes/luna/\" target=\"_blank\">Luna Premium</a> has, check them all out right <a href=\"http://modernthemes.net/premium-wordpress-themes/luna/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: panel/theme-admin-page.php:79
+#@ luna
+msgid "WooCommerce"
+msgstr ""
+
+#: panel/theme-admin-page.php:83
+#@ luna
+msgid "Turn your website into a powerful eCommerce machine. Luna Premium is fully compatible with WooCommerce."
+msgstr "Transformez votre site Web en une machine puissante eCommerce. Luna prime est entièrement compatible avec WooCommerce."
+
+#: panel/class-tgm-plugin-activation.php:343
+#, php-format
+#@ luna
+msgid "First time using ModernThemes? This theme recommends the following plugin: %1$s."
+msgid_plural "First time using ModernThemes? This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/theme-admin-page.php:27
+#@ luna
+msgid "Want to add more functionality to your theme? Use ModernThemes Premium Plugins to add content to your widget areas and pages."
+msgstr ""
+
+#: panel/theme-admin-page.php:39
+#@ luna
+msgid "Check out our Luna Documentation to learn how to use luna and for tutorials on theme functions. "
+msgstr ""
+
+#: panel/theme-admin-page.php:108
+#@ luna
+msgid "PSD Files"
+msgstr ""
+
+#: panel/theme-admin-page.php:112
+#@ luna
+msgid "Premium versions include PSD files. Preview your own content or showcase a customized version for your clients."
+msgstr ""
+
