@@ -22,20 +22,20 @@
 	<header id="masthead" class="site-header" role="banner">
 		<div class="navbar-wrapper">
 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-			<!-- <button id="nav-button" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+			<button id="nav-button" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 				<span class="sr-only">Toggle navigation</span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
-			</button> -->
+			</button>
 			<div class="container">
 				<div class="navbar-header page-scroll" id="navbar_ab_logo" style="position: absolute">
 					<a href="https://www.applyboard.com">
 						<img class="navbar-logo" src="https://d2mqj6445k6q7s.cloudfront.net/assets/applyboard-fc701424c1e1bccabd1d9f9cdcc5565d.png" alt="Applyboard"/>
 					</a>
 				</div>
-			<div>
-				<!-- id="navbar" class="navbar-collapse collapse" -->
+			<div id="navbar" class="navbar-collapse">
+				<!-- collapse -->
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="https://www.applyboard.com/schools">Schools</a></li>
 					<li id="nav-info">
