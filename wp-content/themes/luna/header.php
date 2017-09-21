@@ -12,70 +12,50 @@
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>"> 
+<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <?php wp_head(); ?>
 </head>
 
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed site">
-	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'luna' ); ?></a>
 
 	<header id="masthead" class="site-header" role="banner">
-		<div class="site-branding">
-			
-             <?php if ( get_theme_mod( 'luna_logo' ) ) : ?>
-              
-    			<div class="site-logo site-title"> 
-       				<a href='<?php echo esc_url( home_url( '/' ) ); ?>' title='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>' rel='home'>
-                    
-                    <img src='<?php echo esc_url( get_theme_mod( 'luna_logo' ) ); ?>' <?php if ( get_theme_mod( 'logo_size' ) ) : ?>width="<?php echo esc_attr( get_theme_mod( 'logo_size', '150' )); ?>"<?php endif; ?> alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>">
-                    
-                    </a> 
-    			</div><!-- site-logo -->
-                
-			<?php else : ?>
-            
-    			<hgroup>
-       				<h1 class='site-title'>
-                    <a href='<?php echo esc_url( home_url( '/' ) ); ?>' title='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>' rel='home'>
-						<?php bloginfo( 'name' ); ?>
-                    </a>
-                    </h1>
-    			</hgroup>
-                
-			<?php endif; ?> 
-            
-		</div><!-- .site-branding -->
+		<div class="navbar-wrapper">
+		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+			<!-- <button id="nav-button" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button> -->
+			<div class="container">
+				<div class="navbar-header page-scroll" id="navbar_ab_logo" style="position: absolute">
+					<a href="https://www.applyboard.com">
+						<img class="navbar-logo" src="https://d2mqj6445k6q7s.cloudfront.net/assets/applyboard-fc701424c1e1bccabd1d9f9cdcc5565d.png" alt="Applyboard"/>
+					</a>
+				</div>
+			<div>
+				<!-- id="navbar" class="navbar-collapse collapse" -->
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="https://www.applyboard.com/schools">Schools</a></li>
+					<li id="nav-info">
+						<a href="https://applyboard.zendesk.com/hc/en-us">
+							<span class='fa fa-chevron-down'></span> Help
+						</a>
+				<i id="triangle-after-help" style="width: 0; height: 0; border-left: 15px solid transparent; border-right: 15px solid transparent; border-bottom: 10px solid rgba(255, 255, 255, 0.95); margin-left: 15px; position: absolute; top: 40px; display: none"></i>
+			</li>
+			<li><a href="https://www.applyboard.com/features">Features</a></li>
 
-		<div class="navigation-container">
-        	<button class="toggle-menu menu-right push-body">
-            
-            <?php $menu_toggle_option = get_theme_mod( 'luna_menu_toggle', 'icon' );
-
-				$menu_display = '';
-
-				if ( $menu_toggle_option == 'icon' ) {
-				
-					$menu_display = sprintf( '<i class="fa fa-bars"></i>' );
-			
-				} else if ( $menu_toggle_option == 'label' ) {
-				
-					$menu_display = esc_html__( 'Menu', 'luna' ); 
-			
-				} else if ( $menu_toggle_option == 'icon-label' ) {
-				
-					$menu_display = sprintf( '<i class="fa fa-bars"></i> Menu', 'luna' ); 
-			
-				}
-
-			echo $menu_display; ?> 
-            
-          	</button>
-        </div>
+			<li>
+				<a href="https://www.applyboard.com/blog">Blog</a>
+			</li>
+				<li><a href="https://www.applyboard.com/login">Login</a></li>
+				<li><a href="https://www.applyboard.com/register">Register</a></li>
+			<li><a class="page-scroll match-btn" href="https://www.applyboard.com/quick_search">Apply Now</a></li>
+		</ul>
+	</div>
+</div>
+</nav>
 	</header><!-- #masthead -->
-    
-    <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right">
-        <?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
-    </nav>
-
+</div>
 	<div id="content" class="site-content">
