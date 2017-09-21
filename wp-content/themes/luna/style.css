@@ -981,10 +981,16 @@ ul.social-media-icons {
 	background-size: cover;
 }
 
+/* TODO: FOOTER */
 .site-footer {
-	background: #f1f1f1;
-	padding-top: 20px;
-	font-size: 18px;
+	background-image: url('https://d2mqj6445k6q7s.cloudfront.net/assets/world-map-e66c6de82a0ce30fb49b2feb92a3aba1.png');
+	background-position: center center;
+	background-repeat: no-repeat;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	min-height: 300px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .site-footer h5 {
@@ -994,7 +1000,7 @@ ul.social-media-icons {
 }
 
 .site-info {
-	background: #fff;
+	/*background: #fff;*/
 	font-size: 12px;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -1860,7 +1866,7 @@ body {
 
 /*[class*='col-'] {
 	float: left;
-	padding-right: 35px; 
+	padding-right: 35px;
 }*/
 
 .grid {

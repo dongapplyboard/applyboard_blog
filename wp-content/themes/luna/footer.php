@@ -14,7 +14,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 
-		<div class="site-info">
+		<div class="container">
 
 							<div class="row text-center-sm" style="margin-top:20px; margin-bottom:20px;">
 							  <div class="col-md-6">
