@@ -10,12 +10,8 @@
 
 	</div><!-- #content -->
 
-
-
 	<footer id="colophon" class="site-footer" role="contentinfo">
-
 		<div class="container _links">
-
 							<div class="row text-center-sm" style="margin-top:20px; margin-bottom:20px;">
 							  <div class="col-md-6">
 							    <div class="row">
@@ -100,7 +96,6 @@
 
 							  </div>
 							</div>
-
 							<div class="row">
 							  <div class="col-lg-12 text-center">
 							    <a href="mailto:info@applyboard.com" class="btn btn-primary">Send us an email</a>
@@ -125,16 +120,13 @@
 							</div>
 							<div class="row">
 							  <div class="col-lg-12 text-center m-t-lg m-b-lg">
-							        <span>
-							            <strong>&copy;
-							              2017 ApplyBoard.com</strong> | <a href="https://applyboard.com/terms_of_service">Terms of Service</a> | <a href="https://applyboard.com/privacy_policy">Privacy Policy</a><br/>
-							            An online tool for students from anywhere in the world to find the best university or college in Canada or the USA and apply to it.
-							        </span>
+					        <span>
+				            <strong>&copy;
+				              2017 ApplyBoard.com</strong> | <a href="https://applyboard.com/terms_of_service">Terms of Service</a> | <a href="https://applyboard.com/privacy_policy">Privacy Policy</a><br/>
+				            An online tool for students from anywhere in the world to find the best university or college in Canada or the USA and apply to it.
+					        </span>
 							  </div>
 							</div>
-
-
-
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
