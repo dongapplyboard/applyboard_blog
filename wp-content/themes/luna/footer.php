@@ -107,8 +107,8 @@
 							    <p class="m-t-sm">
 							      Or follow us on social platform
 							    </p>
-							    <ul class="list-inline social-icon">
-							      <li><a target="_blank" href="https://twitter.com/applyboard"><i class="fa fa-twitter"></i></a>
+							    <ul class="list-inline">
+							      <li class="social-icon"><a target="_blank" href="https://twitter.com/applyboard"><i class="fa fa-twitter"></i></a>
 							      </li>
 							      <li><a target="_blank" href="https://www.facebook.com/applyboard"><i class="fa fa-facebook"></i></a>
 							      </li>

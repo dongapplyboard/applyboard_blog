@@ -1003,6 +1003,10 @@ ul.social-media-icons {
 	font-size: 13px;
 }
 
+.social-icon {
+	width: 28px;
+}
+
 .site-footer h5 {
 	font-size: 13px;
 	text-transform: uppercase;
@@ -4154,15 +4158,17 @@ fieldset[disabled] a.btn {
 }
 
 .btn-primary {
+	background-color: #1ab394;
+	border-color: #1ab394;
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+	font-size: 14px;
+	font-weight: 600;
 }
 
 .btn-primary:hover {
+	background-color: #179d82;
+	border-color: #179d82;
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
 }
 
 .btn-primary:focus, .btn-primary.focus {
