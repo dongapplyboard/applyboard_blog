@@ -918,7 +918,7 @@ ul.social-media-icons {
   border-bottom: 1px solid #e7eaec !important;
   z-index: 2030;
 	border: none !important;
-	top: 30px; /*TODO: CHANGE THIS SHIT*/
+	top: 0px; /* TODO: CHANGE THIS */
 }
 
 .navbar-fixed-top, .navbar-static-top {
@@ -961,83 +961,6 @@ ul.social-media-icons {
 	border-radius: 1px;
 }
 
-.navbar-default .navbar-scroll {
-	background-color: #fff;
-	border-color: #fff;
-	padding: 15px 0;
-}
-.navbar-default {
-	background-color: #fff;
-	border-color: transparent;
-	transition: all 0.3s ease-in-out 0s;
-}
-.navbar-default .nav li a {
-	color: inherit;
-	font-family: 'Open Sans', helvetica, arial, sans-serif;
-}
-.navbar-nav > li > a {
-	padding-top: 25px;
-}
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover {
-	color: #fff;
-}
-
-.navbar-default .navbar-nav > .active > a:focus {
-	background: transparent;
-	color: #fff;
-}
-
-.navbar-default .navbar-nav > .active > a:focus {
-	background: transparent;
-	color: #ffffff;
-}
-
-.navbar-default.navbar-scroll .navbar-nav > .active > a:focus {
-	background: transparent;
-	color: inherit;
-}
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus {
-	background: darken($navy, 5%);
-	color: #fff;
-}
-.navbar-default .navbar-brand {
-	color: #fff;
-	height: auto;
-	display: block;
-	font-size: 12px;
-	background: $navy;
-	padding: 15px 20px 15px 20px;
-	border-radius: 0 0 5px 5px;
-	font-weight: 700;
-	transition: all 0.3s ease-in-out 0s;
-}
-.navbar-scroll.navbar-default .nav li{
-	color: $text-color !important;
-}
-.navbar-scroll.navbar-default .nav li a:hover {
-	color: $navy;
-}
-.navbar-wrapper .navbar.navbar-scroll {
-	padding-top: 0;
-	padding-bottom: 0px;
-	border-bottom: 1px solid $border-color;
-	border-radius: 0;
-}
-
-.nav > li.active {
-	border: none;
-	background: inherit;
-}
-
-.nav > li > a {
-	padding: 25px 10px 15px 10px;
-}
-.navbar-scroll .navbar-nav > li > a {
-	padding: 28px 10px;
-}
-
 .navbar.navbar-scroll .navbar-brand {
 	margin-top: 15px;
 	border-radius: 5px;
@@ -1073,30 +996,6 @@ ul.social-media-icons {
 		margin-right: -15px !important;
 		margin: 0;
 	}
-}
-
-.navbar-nav>li>a
-{
-	padding-bottom: 10px;
-	padding-top: 10px;
-}
-.navbar-text
-{
-	float: none;
-	margin: 15px 0;
-}
-.navbar-collapse.coll apse.in
-{
-	display: block!important;
-}
-.collapsing
-{
-	overflow: hidden!important;
-}
-
-.navbar-nav .open .dropdown-menu .dropdown-header,.navbar-nav .open .dropdown-menu>li>a
-{
-	padding: 10px 15px 10px 25px;
 }
 
 @media (min-width: 768px) {
@@ -1175,13 +1074,6 @@ ul.social-media-icons {
 		}
 
 	#navbar ul li a {
-		/*transition: 0.3s;
-		opacity: 0.8;
-		height: 40px;
-		line-height: 40px;
-		margin: 5px 10px 5px 10px;
-		padding: 0;
-		font-size: 16px;*/
 		border-top: none;
 	}
 
