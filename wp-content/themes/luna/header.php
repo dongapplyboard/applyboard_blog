@@ -40,7 +40,8 @@
 					<li><a class="page-scroll" href="https://www.applyboard.com/schools">Schools</a></li>
 					<li id="nav-info">
 						<a class="page-scroll" href="https://applyboard.zendesk.com/hc/en-us">
-							<span class='fa fa-chevron-down'></span> Help
+							<!-- <span class='fa fa-chevron-down'></span>  -->
+							Help
 						</a>
 				<i id="triangle-after-help" style="width: 0; height: 0; border-left: 15px solid transparent; border-right: 15px solid transparent; border-bottom: 10px solid rgba(255, 255, 255, 0.95); margin-left: 15px; position: absolute; top: 40px; display: none"></i>
 			</li>
