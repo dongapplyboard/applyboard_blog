@@ -993,6 +993,16 @@ ul.social-media-icons {
 	padding-bottom: 50px;
 }
 
+.footer-title {
+	font-size: 16px;
+	font-weight: 700;
+	color: #1ab394;
+}
+
+._links {
+	font-size: 13px;
+}
+
 .site-footer h5 {
 	font-size: 13px;
 	text-transform: uppercase;
@@ -1000,7 +1010,7 @@ ul.social-media-icons {
 }
 
 .site-info {
-	/*background: #fff;*/
+	background: #fff;
 	font-size: 12px;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -2343,7 +2353,7 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #428bca;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -2351,7 +2361,7 @@ a {
 
 a:hover {
   color: #0056b3;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:not([href]):not([tabindex]) {
@@ -2636,6 +2646,7 @@ mark,
 .list-inline {
   padding-left: 0;
   list-style: none;
+	margin-left: -5px;
 }
 
 .list-inline-item {
