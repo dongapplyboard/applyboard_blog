@@ -196,7 +196,7 @@ function pwwp_enqueue_my_styles() {
     wp_enqueue_style( 'bootstrap', '//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' );
 
     // this will add the stylesheet from it's default theme location if your theme doesn't already
-    //wp_enqueue_style( 'my-style', get_template_directory_uri() . '/style.css');
+    wp_enqueue_style( 'my-style', get_template_directory_uri() . '/style.css');
 }
 add_action('wp_enqueue_scripts', 'pwwp_enqueue_my_styles');
 
